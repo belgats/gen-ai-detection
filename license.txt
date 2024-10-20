@@ -1,0 +1,16 @@
+License Agreement for Human Written Data
+
+1. License Grant: We hereby grant the participants of the [Shared Task Name] a non-exclusive, non-transferable, and revocable license to use the provided data solely for the purposes of participating in the shared task.
+
+2. Usage Restrictions: Participants are strictly prohibited from distributing, sharing, or otherwise disseminating the human-written data provided for this shared task. The data may only be used for the shared task and for no other purposes.
+
+3. No Redistribution: Participants agree not to redistribute, publish, or share the data in any form, whether in its original form or as part of any derivative works. However, participants are allowed to use examples in the paper and/or presentations.
+
+4. Termination: This license agreement is effective until the conclusion of the shared task. Any breach of this agreement will result in the immediate termination of the license.
+
+5. Acknowledgment: By participating in the shared task, participants acknowledge that they have read, understood, and agree to comply with the terms of this Data License Agreement. It is also important to cite the respective paper below.
+
+
+License Agreement for AI Written Data
+
+AI generated data are released using the license terms: https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.txt
